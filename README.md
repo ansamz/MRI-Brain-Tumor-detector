@@ -1,9 +1,9 @@
-# Project Name
+# MRI brain tumor detector
 
 example image:
 
 
-![alternative text](reports/img/pic01.jpg)
+![alternative text](https://www.mdpi.com/applsci/applsci-10-01999/article_deploy/html/images/applsci-10-01999-g001.png)
 
 
 #### -- Project Status: [Active, On-Hold, Completed]
