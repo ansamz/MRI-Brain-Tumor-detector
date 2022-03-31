@@ -1,45 +1,28 @@
 # MRI brain tumor detector
 
-example image:
 
 
 ![alternative text](https://www.mdpi.com/applsci/applsci-10-01999/article_deploy/html/images/applsci-10-01999-g001.png)
 
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Completed]
 
 ## Project Intro/Objective
 The purpose of this project is ________. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact]
-* If you do not have a partner leave this section out
 
 ### Methods Used
-* Inferential Statistics
 * Machine Learning
-* Data Visualization
+* Tensorflow
 * Predictive Modeling
-* etc.
+* EfficientNetB0
+* Vgg16
 
 ### Technologies
-* R
 * Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc.
 
 ## Project Description
-(Provide more detailed overview of the project.
-Talk a bit about your data sources and what questions and hypothesis you are exploring.
-What specific data analysis/visualization and modelling work are you using to solve the
-problem? What blockers and challenges are you facing?
-Feel free to number or bullet point things here)
+Comparing 3 machine learning models in predicting the type of tumor, glioma, meningioma, no-tumor, pituitary.
 
 ## Getting Started
 
@@ -56,17 +39,3 @@ create another "setup.md" file and link to it here*
 
 5. Follow setup [instructions](Link to file)
 
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
-
-
-## Contributing Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])**
-
-#### Other Members:
-
- - [Full Name](https://github.com/[github handle])
- - [Full Name](https://github.com/[github handle])
